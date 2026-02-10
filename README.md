@@ -44,12 +44,6 @@ Jogo single-player com temática de **acessibilidade**, desenvolvido durante o c
 
 ---
 
-### 🌐 Projetos Full-Stack (em preparação)
-Projetos web desenvolvidos com foco em **full-stack**, atualmente com repositórios privados devido à presença de **propriedade intelectual de terceiros**.  
-Os códigos estão sendo refatorados para posterior publicação pública.
-
----
-
 ## 📫 Contato
 <div>
   <a href= "mailto:jmporto@outlook.com"> <img src= "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
