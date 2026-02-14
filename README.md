@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Marcelo Bilitardo!
 
-Desenvolvedor Júnior com formação em **Desenvolvimento Web Full-Stack (Trybe)** e **Jogos Digitais (PUC-Campinas)**.  
+Estudante de Desenvolvimento com formação em **Desenvolvimento Web Full-Stack (Trybe)** e **Jogos Digitais (PUC-Campinas)**.  
 Aberto a oportunidades em **Full-Stack** e **Game Development**, com perfil visual e foco em sistemas interativos, jogos e aplicações web.
 
 📍 São José dos Campos, SP  
